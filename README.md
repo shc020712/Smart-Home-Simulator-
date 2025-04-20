@@ -128,7 +128,7 @@ class SmartFlashlight:
 
 - Collaboration and modular design in code
 
-# 🙋 Authors
+# 🙋 Author
 👨‍💻 Muawiya — <a href="https://www.youtube.com/@Coding_Moves" target="_blank">@Coding_Moves</a>
 
 # 🌟 Show Your Support
