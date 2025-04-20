@@ -3,7 +3,7 @@
 Welcome to the **Smart Home Simulator** — a creative and fully functional IoT-based project where your **smartphone** acts as a **Smart Flashlight** (Light Device), and your **laptop** acts as the **Controller**! Built entirely using **Python**, **Flask**, and **Object-Oriented Programming (OOP)** concepts. No extra hardware required! 💻📱
 
 ---
-
+[![Watch Demo](thumbnail.jpg)](https://www.linkedin.com/posts/contactmuawia_python-oop-iot-activity-7317201126267777024-MT_F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE83puMB2usKBg0a3tbcCz_4_33IjoRwOfw)
 ## 💡 Project Highlights
 
 - ✅ Fully **Object-Oriented** Python structure
